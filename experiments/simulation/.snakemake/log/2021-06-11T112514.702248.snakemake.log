@@ -1,4 +1,0 @@
-Building DAG of jobs...
-MissingInputException in line 325 of /prj/spp_dcj_release/experiments/simulation/Snakefile:
-Missing input files for rule construct_ilp:
-results/drf:2_deg:0.8_gs1000_lrf:2_leg:0.8_orf:0_rrf:2_reg:0.5_s1/AdjacenciesNoisy_n200_adv0.5.txt
