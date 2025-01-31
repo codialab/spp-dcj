@@ -1,0 +1,11 @@
+#Species	Gene_1	Ext_1	Species	Gene_2	Ext_2	Weight
+A	1_1	h	A	3_1	t	1
+A	3_1	h	A	3_2	t	1
+A	3_2	h	A	1_1	t	1
+B	1_1	h	B	3_1	h	1
+B	3_1	t	B	3_2	t	1
+B	3_2	h	B	1_1	t	1
+C	1_1	h	C	3_1	t	1
+C	3_1	h	C	3_2	t	1
+C	3_2	h	C	1_1	t	1
+C	3_2	h	C	3_2	t	0
