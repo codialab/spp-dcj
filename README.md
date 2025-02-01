@@ -1,4 +1,4 @@
-# SPP_DCJ
+# SPP-DCJ
 
 ## Introduction
 The Small Parsimony Problem (SPP) aims at finding the gene orders at internal nodes of a given phylogenetic tree such that the overall genome rearrangement distance along the tree branches is minimized. This problem is intractable in most genome rearrangement models, especially when gene duplication and loss are considered.
