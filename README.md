@@ -17,12 +17,11 @@ mamba install -c conda-forge -c bioconda spp-dcj
 ```
 
 ## Dependencies
-- [Gurobi](https://www.gurobi.com/products/gurobi-optimizer/) or [CPLEX](https://www.ibm.com/analytics/cplex-optimizer)
+- [Gurobi](https://www.gurobi.com/products/gurobi-optimizer/) 
 - [Python 3](https://www.python.org/downloads/)
 - Python 3 libraries:
     - Matplotlib
     - NetworkX
-    - Numpy
 
 ## How to run 
 
