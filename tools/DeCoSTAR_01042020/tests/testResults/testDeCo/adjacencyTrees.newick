@@ -1,8 +1,0 @@
->Id: 2-3 sample: 1 #Trees: 1 #Gain: 1 #Break: 0 Score: 15
-((3-3|Loss|18,(7-5|Loss|15,F_3-F_4|Extant|16)4-4|Spe|17)1-1|Spe|19,((9-9|Loss|9,(13-11|Loss|7,(15-13|Loss|5,(H_3-H_4|Extant|3,(A_5-A_6|Extant|0,B_3-B_4|Extant|1)18-16|Spe|2)16-14|Spe|4)14-12|Spe|6)10-10|Spe|8)5-8|Spe|10,6-7|Loss|13)2-2|Spe|14)0-0|Spe|20;
->Id: 1-2 sample: 1 #Trees: 1 #Gain: 1 #Break: 1 Score: 16
-(((E_2-E_3|Extant|15,F_2-F_3|Extant|16)4-4|Spe|17,2|Breakage|NOSPECIES)1-1|Spe|19,((9-11|Loss|11,D_2-D_3|Extant|12)5-6|Spe|13,(11-9|Loss|9,(13-13|Loss|7,(15-15|Loss|5,(17-17|Loss|3,(B_2-B_3|Extant|1,(A_4-A_5|Extant|0)20-19|Dup|0)18-18|Spe|2)16-16|Spe|4)14-14|Spe|6)12-10|Spe|8)6-5|Spe|10)2-2|Spe|14)0-0|Spe|20;
->Id: 0-1 sample: 1 #Trees: 1 #Gain: 1 #Break: 1 Score: 16
-((G_1-G_2|Extant|18,(E_1-E_2|Extant|15,2|Breakage|NOSPECIES)4-4|Spe|17)1-1|Spe|19,((9-9|co-Loss|11,D_1-D_2|Extant|12)5-5|Spe|13,(11-11|co-Loss|9,(13-13|co-Loss|7,(15-15|co-Loss|5,(17-17|co-Loss|3,(B_1-B_2|Extant|1,(A_1-A_3|Extant|0,A_2-A_4|Extant|0)20-20|co-Dup|0)18-18|Spe|2)16-16|Spe|4)14-14|Spe|6)12-12|Spe|8)6-6|Spe|10)2-2|Spe|14)0-0|Spe|20;
->Id: 0-0 sample: 1 #Trees: 1 #Gain: 1 #Break: 0 Score: 15
-A_1-A_2|Extant|0;

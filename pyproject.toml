@@ -1,0 +1,35 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "spp-dcj"
+version = "2.0"
+description = "A tool for solving the small parsimony problem for natural genomes"
+authors = [
+    {name = "Leonard Bohnenkämper", email = "lbohnenk@CeBiTec.Uni-Bielefeld.DE"},
+    {name = "Daniel Dörr", email = " daniel.doerr@HHU.de"}]
+license = {text = "MIT" }
+license-files = ["LICENSE.md"]
+readme = "README.md"
+keywords = ["double-cut-and-join", "genome rearrangement", "bioinformatics"]
+classifiers=[
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+dependencies = [
+    "networkx >= 3.4",
+    "matplotlib >= 3.10" 
+]
+
+[project.scripts]
+spp-dcj = "spp_dcj.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/codialab/spp-dcj"
+Repository = "https://github.com/codialab/spp-dcj.git"
+

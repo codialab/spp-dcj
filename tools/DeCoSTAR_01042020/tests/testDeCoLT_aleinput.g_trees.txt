@@ -1,2 +1,0 @@
-tests/cy36HBG284522_k9.ale
-tests/cy36HBG439411_k9.ale
