@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # builtin imports
 from argparse import ArgumentParser
 import logging
@@ -24,7 +22,7 @@ st.setLevel(logging.DEBUG)
 st.setFormatter(logging.Formatter('%(levelname)s\t%(asctime)s\t%(message)s'))
 LOG.addHandler(st)
 
-if __name__ == '__main__':
+def main():
     parser = ArgumentParser(prog=TOOLNAME,
                             description='A tool to compute the a solution to the small parsimon problem of natural genomes')
     parser.add_argument('-v', '--version', help='show version and exit', action='version', version=f'{TOOLNAME} {VERSION}')
