@@ -16,6 +16,16 @@ Make sure you have [conda](https://conda.io)/[mamba](https://anaconda.org/conda-
 mamba install -c conda-forge -c bioconda spp-dcj
 ```
 
+### From repository
+
+```
+# clone repository
+git clone https://github.com/codialab/spp-dcj.git 
+
+# install with pip
+pip install spp-dcj/
+```
+
 ## Dependencies
 - [Gurobi](https://www.gurobi.com/products/gurobi-optimizer/) 
 - [Python 3](https://www.python.org/downloads/)
