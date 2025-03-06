@@ -1,3 +1,5 @@
+[![Anaconda-Server Badge](https://anaconda.org/bioconda/spp-dcj/badges/version.svg)](https://anaconda.org/bioconda/spp-dcj) [![Anaconda-Server Badge](https://anaconda.org/bioconda/spp-dcj/badges/platforms.svg)](https://anaconda.org/bioconda/spp-dcj) [![Anaconda-Server Badge](https://anaconda.org/bioconda/spp-dcj/badges/license.svg)](https://anaconda.org/bioconda/spp-dcj)
+
 # SPP-DCJ
 
 ## Introduction
